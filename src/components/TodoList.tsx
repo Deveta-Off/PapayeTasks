@@ -6,7 +6,7 @@ export default function TodoList() {
   const todos = useTodos((state) => state.todos);
 
   return (
-    <div className="mt-6 p-5 bg-[#e58e26] w-full sm:w-2/3 rounded-md flex flex-col gap-1 overflow-y-scroll max-h-screen">
+    <div className="m-5 p-5 bg-[#f3a444] w-11/12 sm:w-2/3 rounded-md flex flex-col gap-1 overflow-y-scroll max-h-screen">
       <AnimatePresence>
         {todos.length > 0
           ? todos.map((todo) => <TodoElement todo={todo} key={todo.id} />)
