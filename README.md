@@ -15,7 +15,7 @@ Small To-do app made with :
 ![Demo Screenshot](./assets/demo-screen.png)
 
 **Experience PapayeTasks in action:**  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://papaye-tasks.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://papaye-tasks.deveta.fr/)
 
 Click the button above to try the app live!
 
