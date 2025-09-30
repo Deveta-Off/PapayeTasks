@@ -10,7 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@netlify/vite-plugin-tanstack-start": "^1.0.1",
     "@tailwindcss/vite": "^4.1.12",
+    "@tanstack/react-start": "^1.132.25",
     "motion": "^12.23.12",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
